@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aswadmartin
-- 👀 I’m interested in Machine Learning and Data Science in the fields of FinTech, Sports and Gaming
-- 🌱 I’m currently learning Advanced NLP, cloud computing and C++
+- 👀 I’m interested in Machine Learning, Statistical modelling and Quanititative analysis
+- 🌱 I’m currently learning advanced statistical modelling, nlp and I want to dabble in some C++ to compliment my python skills
 - 💞️ I’m looking to collaborate on projects in the aforementioned fields
 
 <!---
